@@ -35,7 +35,7 @@ Team Member 1: Sam Ayodeji
  - Discord ID:insight_analyst
  - GitHub ID: Sam-Ayodeji
  - Nationality: Nigeria
- - Current affiliation: 
+ - Current affiliation: Obafemi Awolowo University
 
 Team Member 2: _(full name)_
  - Email:
